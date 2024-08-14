@@ -1,5 +1,5 @@
-#receta de ceviche 
-##Ceviche peruano
+# receta de ceviche 
+## Ceviche peruano
 Limpie la corvina, retire los filetes, empareje los bordes y quite las espinas y la piel.
 Corte en trozos de 2cm aproximadamente.
 Pele y corte la cebolla morada en láminas finas.
